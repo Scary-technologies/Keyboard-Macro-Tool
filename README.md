@@ -37,7 +37,7 @@ pip install openpyxl keyboard pyautogui
    | c | ctrl+v | hotkey |
 
 2. **اسکریپت پایتون را اجرا کنید**:
-   - فایل پایتون را با دستور `python your_script.py` اجرا کنید (به جای `your_script.py` نام فایل خود را قرار دهید).
+   - فایل پایتون را با دستور `python KeyboardMacroTool.py` اجرا کنید (به جای `KeyboardMacroTool.py` نام فایل خود را قرار دهید).
    - پس از اجرا، کلیدهای تعریف شده در فایل اکسل را فشار دهید تا اقدامات مربوطه انجام شوند。
 
 ---
